@@ -1,0 +1,21 @@
+{
+    "headers": {
+        "connection": "keep-alive",
+        "accept": "*/*",
+        "accept-encoding": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;",
+        "accept-language": "sk-SK,sk;q=0.9,cs;q=0.8,en-US;q=0.7,en;q=0.6",
+        "cookie": "_ga=GA1.2.850373535.1637825820; _gid=GA1.2.1248610355.1637825820; socrative_lang=en; socrative_lang=en; amp_29d18e=u2-AVFWQquFgUydnAGRS3I.YjQ3YjdmNmUtY2Y5ZS01MzAyLTk4OGQtMmY2ODRjYmE0NWJj..1fldlnjpj.1fldlo6tn.a.d.n; intercom-session-ja2v5o2m=c1phaTBZS3FIelpUeVJUZkNKbXFNancvOWJiemVWUFR0dUdwczZ3a2ZvUVUreDFBZ2VXekdUdloraXZPaXZNaS0tUEdzeDUxTkhoVDdvTnpvajlldDcwQT09--9589737e71fffa48f14f26785b10a6c5dd705fc5; sa=SA_Z6scqNpBHQPlR_pifJlH4UX1oC2A0ocG",
+        "origin": "https://b.socrative.com",
+        "referer": "https://b.socrative.com/",
+        "sec-ch-ua": "\"Not A;Brand\";v=\"99\", \"Chromium\";v=\"96\", \"Google Chrome\";v=\"96\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "Windows",
+        "sec-fetch-dest": "empty",
+        "sec-fetch-mode": "cors",
+        "sec-fetch-site": "same-site",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"
+    },
+    "resHead":{
+        "Access-Control-Allow-Origin":"http://localhost:4200"
+    }
+}
